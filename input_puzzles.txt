@@ -1,0 +1,29 @@
+# DIFFERENT VERBAL ARITHMETIC PROBLEMS WITH VARYING NUMBER BASES
+# ONLY ONE CAN BE COMMENTED OUT AT A TIME
+#B = 10
+#operands = [['C', 'O', 'C', 'A'], ['C', 'O', 'L', 'A']]
+#result = ['O', 'A', 'S', 'I', 'S']
+
+#B = 11
+#operands = [['S', 'I', 'L', 'E', 'N', 'C', 'E'], ['I', 'G', 'N', 'I', 'T', 'E', 'S']]
+#result = ['C', 'O', 'L', 'L', 'E', 'E', 'N']
+
+B = 10
+operands = [['S', 'E', 'N', 'D'], ['M', 'O', 'R', 'E']]
+result = ['M', 'O', 'N', 'E', 'Y']
+
+#B = 25
+#operands = [['B', 'E', 'E', 'F', 'Y'], ['R', 'U', 'B', 'B', 'E', 'R']]
+#result = ['Q', 'U', 'E', 'E', 'N', 'S']
+
+#B = 11
+#operands = [['L', 'A', 'G', 'E'], ['L', 'I', 'P', 'P', 'E']]
+#result = ['S', 'C', 'H', 'O', 'E', 'N']
+
+#B = 11
+#operands = [['U', 'N', 'I', 'T', 'E', 'D'], ['S', 'T', 'A', 'T', 'E', 'S']]
+#result = ['A', 'M', 'E', 'R', 'I', 'C', 'A']
+
+#B = 12
+#operands = [['L', 'A', 'G', 'E'], ['L', 'E', 'M', 'G', 'O']]
+#result = ['S', 'C', 'H', 'O', 'E', 'N']
